@@ -19,5 +19,4 @@
 -Una ecuación diferencial ordinaria lineal de orden n, es una ecuación que se puede escribir en la forma. Donde g(x) y los coeficientes , son funciones dadas de x.
 
 - EDO - Variables Separables
-![ejemplo](https://robo-tics-slp.net/ecuaciones/_images/variables_separables_04.svg)# Ecuaciones_Diferenciales
-# EcuacionesDiferenciales
+![ejemplo](https://robo-tics-slp.net/ecuaciones/_images/variables_separables_04.svg)
